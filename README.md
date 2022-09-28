@@ -1,4 +1,4 @@
-<img src="src/main/resources/assets/sodium/icon.png" width="128">
+<img src="/Src/icon.png" width="128">
 
 # Sodium (for Fabric)
 ![GitHub license](https://img.shields.io/github/license/CaffeineMC/sodium-fabric.svg)
@@ -48,7 +48,7 @@ we will expect that this is the case. Caveat emptor.
 
 ### CurseForge
 
-[![CurseForge downloads](http://cf.way2muchnoise.eu/full_394468_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/sodium)
+[![CurseForge downloads](https://raw.githubusercontent.com/Tungdabiban2408/Sodium-Minecraft-Backup/main/Src/curesforge.png)](https://www.curseforge.com/minecraft/mc-mods/sodium)
 
 If you are using the CurseForge client, you can continue to find downloads through our
 [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/sodium). Unless you are using the CurseForge
